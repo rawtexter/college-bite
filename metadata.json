@@ -1,0 +1,6 @@
+{
+  "name": "CampusBite - Smart College Canteen",
+  "description": "Digital college canteen ordering, queue reduction, slot booking, and live order tracking platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
